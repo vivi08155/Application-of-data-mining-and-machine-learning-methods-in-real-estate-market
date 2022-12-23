@@ -1,0 +1,201 @@
+﻿Település;Körzet;Év;Jogi_státusz;Nyaraló;Típus;Altípus;Panelprogram;Ingatlan_állapota;Építés_éve;Zárószint;Emelet;Tájolás;Kilátás;Lift;Lakáson_belüli_szintszám;Fűtés;Nettó_méret;Terasz_méret;Erkély_méret;Telek_méret;Telek_méret_mértékegysége;Szobaszám;Kiadási_ár;Négyzetméterár
+Székesfehérvár;Belváros;2018;hasznalt;0;tarsashazi;tegla;0;4;1973;;1;NY;utcai;0;1;gaz_kazan;54.7;0;4.5;0;nm;2 + 0;100000;1828.15
+Szolnok;Belváros;2018;hasznalt;0;tarsashazi;tegla;0;5;1965;3;1;NY;utcai;0;0;gaz_konvektor;51;0;1.5;0;nm;2 + 0;90000;1764.71
+Debrecen;Széchenyi-kert;2018;hasznalt;0;sorhaz;tegla;0;5;2006;;;NY;;0;1;gaz_cirko;126;16.6;1.8;120;nm;4 + 0;300000;2380.95
+Dunaújváros;Római városrész;2018;hasznalt;0;tarsashazi;panel;0;3;1970;4;2;K;utcai;0;0;hazkozponti;52;0;3;0;nm;2 + 0;60000;1153.85
+Kecskemét;Széchenyiváros;2018;hasznalt;0;tarsashazi;tegla;0;4;1970;4;földszint;D;utcai;0;1;gaz_konvektor;52;0;0;0;nm;2 + 0;63000;1211.54
+Kecskemét;Belváros;2018;hasznalt;0;tarsashazi;tegla;0;5;2006;2;2;K;utcai;0;1;hazkozponti;38;0;0;0;nm;1 + 1;80000;2105.26
+Pécs;Belváros;2018;hasznalt;0;tarsashazi;panel;0;4;1985;10;7;NY;utcai;1;0;tavegyedi;47;0;3;0;nm;2 + 0;70000;1489.36
+Sopron;Ravazd utcai lakópark;2018;hasznalt;0;tarsashazi;tegla;0;4;2016;1;földszint;K;utcai;0;1;gaz_cirko;38;0;0;0;nm;1 + 0;90000;2368.42
+Pécs;Mecsekoldal;2018;hasznalt;0;tarsashazi;panel;0;4;1980;10;földszint;K;utcai;1;0;tavegyedi;72;0;0;0;nm;3 + 0;70865;984.24
+Szombathely;KISZ ltp.;2018;hasznalt;0;tarsashazi;csusztatott_zsalus;0;4;1974;4;3;D;udvari;0;0;tavegyedi;64;0;5;0;nm;1 + 2;80000;1250.00
+Debrecen;Nagyerdő;2018;hasznalt;0;tarsashazi;tegla;0;5;1998;3;1;NY;utcai;0;1;gaz_cirko;86;0;3;0;nm;3 + 1;200000;2325.58
+Kecskemét;Belváros;2018;hasznalt;0;tarsashazi;tegla;0;5;1950;2;1;K;utcai;0;1;gaz_konvektor;70;2;0;0;nm;2 + 0;125000;1785.71
+Tatabánya;Újváros;2018;hasznalt;0;tarsashazi;tegla;0;4;1969;4;1;;utcai;0;0;tav;42;0;0;0;nm;1 + 0;70000;1666.67
+Debrecen;Belváros;2018;hasznalt;0;tarsashazi;tegla;0;5;2005;3;2;DNY;udvari;0;0;gaz_cirko;72;0;10;0;nm;3 + 1;120000;1666.67
+Szekszárd;Szekszárd;2018;hasznalt;0;tarsashazi;tegla;0;4;1970;4;3;K;utcai;0;1;gaz_konvektor;43.74;0;1.5;0;nm;1 + 1;75000;1714.68
+Zalaegerszeg;Belváros;2018;hasznalt;0;tarsashazi;tegla;0;4;1996;;2;NY;utcai;0;0;gaz_cirko;54;0;0;0;nm;1 + 1;100000;1851.85
+Székesfehérvár;Belváros;2018;hasznalt;0;tarsashazi;tegla;0;5;2005;4;3;DNY;utcai;1;0;hazkozponti;62;0;8.1;0;nm;2 + 1;150000;2419.35
+Szolnok;Belváros;2018;hasznalt;0;tarsashazi;tegla;0;5;1969;3;1;D;udvari;0;0;gaz_konvektor;59.6;0;0;0;nm;2 + 0;75000;1258.39
+Szolnok;Belváros;2018;hasznalt;0;tarsashazi;tegla;0;4;1978;4;2;;utcai;0;0;gaz_konvektor;42;0;0;0;nm;1 + 1;70000;1666.67
+Győr;Győr-Belváros;2018;hasznalt;0;tarsashazi;tegla;0;3;1960;4;2;ÉK;udvari;0;1;gaz_konvektor;50;0;3;0;nm;2 + 0;90000;1800.00
+Kecskemét;Alsószéktó;2018;hasznalt;0;tarsashazi;tegla;0;4;1975;3;2;DNY;udvari;0;1;gaz_konvektor;46;0;0;0;nm;1 + 2;60000;1304.35
+Győr;Győr-Belváros;2018;hasznalt;0;tarsashazi;tegla;0;5;2007;6;2;K;udvari;1;0;gaz_cirko;46;0;4.5;0;nm;2 + 0;110000;2391.30
+Kecskemét;Villanegyed;2018;hasznalt;0;tarsashazi;tegla;0;5;1960;2;földszint;DNY;utcai;0;0;gaz_konvektor;41;0;0;0;nm;1 + 0;80000;1951.22
+Kecskemét;Petőfiváros;2018;hasznalt;0;csaladihaz;tegla;0;4;1995;;;DK;;0;1;gaz_cirko;180;15;0;560;nm;7 + 0;140600;781.11
+Pécs;Belváros;2018;hasznalt;0;tarsashazi;tegla;0;5;2006;2;1;É;kertre_nezo;0;1;hazkozponti;36;15;0;0;nm;1 + 0;80000;2222.22
+Pécs;Egyetemváros;2018;hasznalt;0;tarsashazi;panel;1;4;1980;4;magasföldszint;D;utcai;0;1;tavegyedi;36;0;0;0;nm;1 + 1;80000;2222.22
+Tatabánya;Cseri lakótelep;2018;hasznalt;0;tarsashazi;tegla;0;4;1970;4;2;;udvari;0;0;tav;55;0;0;0;nm;2 + 0;80000;1454.55
+Győr;Győrszabadhegy;2018;hasznalt;0;tarsashazi;tegla;0;3;1970;1;tetőtér;DK;utcai;0;0;gaz_cirko;40;0;0;0;nm;1 + 0;50000;1250.00
+Szekszárd;Szekszárd;2018;hasznalt;0;csaladihaz;tegla;0;4;1970;;;K;;0;0;gaz_cirko;56;0;0;652;nm;2 + 0;58000;1035.71
+Békéscsaba;II. kerület;2018;uj;0;tarsashazi;tegla;0;5;1985;2;1;;utcai;0;0;gaz_cirko;81.78;0;0;0;nm;3 + 0;110000;1345.07
+Kecskemét;Széchenyiváros;2018;hasznalt;0;tarsashazi;tegla;0;5;1976;4;2;K;utcai;0;1;gaz_konvektor;57;0;0;0;nm;2 + 0;90000;1578.95
+Kecskemét;Máriaváros;2018;uj;0;tarsashazi;tegla;0;5;2018;4;2;NY;udvari;1;1;elektromos_cirko;36;0;4;0;nm;1 + 1;110000;3055.56
+Pécs;Belváros;2018;hasznalt;0;tarsashazi;tegla;0;5;2003;1;tetőtér;DK;utcai;0;0;gaz_cirko;50;8;2;0;nm;2 + 0;71000;1420.00
+Szekszárd;Szekszárd;2018;hasznalt;0;tarsashazi;tegla;0;4;1980;4;földszint;K;utcai;0;0;gaz_cirko;63.54;0;0;0;nm;3 + 0;120000;1888.57
+Kecskemét;Széchenyiváros;2018;hasznalt;0;tarsashazi;panel;1;5;1983;5;5;D;utcai;0;1;tavegyedi;55;0;0;0;nm;2 + 0;80000;1454.55
+Szekszárd;Szekszárd;2018;hasznalt;0;tarsashazi;panel;0;3;1970;1;1;;udvari;0;1;tavegyedi;52;0;2;0;nm;2 + 0;70000;1346.15
+Békéscsaba;Lencsési lakótelep;2018;hasznalt;0;tarsashazi;panel;0;4;1978;4;2;K;utcai;0;0;gaz_cirko;48;0;0;0;nm;2 + 0;65000;1354.17
+Debrecen;Libakert;2018;hasznalt;0;tarsashazi;tegla;0;4;1980;4;földszint;ÉK;utcai;0;0;gaz_konvektor;43;0;4;0;nm;1 + 0;82000;1906.98
+Tatabánya;Újváros;2018;hasznalt;0;tarsashazi;csusztatott_zsalus;0;4;1960;4;3;É;kertre_nezo;0;1;tav;43;0;0;0;nm;1 + 1;75000;1744.19
+Debrecen;Újkert;2018;hasznalt;0;tarsashazi;panel;0;5;1978;10;10;NY;udvari;1;0;tav;51;0;3;0;nm;1 + 1;99000;1941.18
+Szeged;Móraváros;2018;hasznalt;0;tarsashazi;tegla;0;4;1960;1;1;ÉK;utcai;0;1;elektromos_cirko;35;0;0;0;nm;1 + 0;100000;2857.14
+Szeged;Móraváros;2018;hasznalt;0;hazresz;tegla;0;5;2008;;;;;0;1;gaz_cirko;40;0;0;50;nm;1 + 0;50000;1250.00
+Szeged;Fodor-kert;2018;hasznalt;0;tarsashazi;panel;1;4;1980;10;3;DK;utcai;1;1;tavegyedi;60;0;0;;;2 + 1;75000;1250.00
+Kecskemét;Széchenyiváros;2018;hasznalt;0;tarsashazi;tegla;0;3;1979;5;földszint;K;kertre_nezo;0;0;gaz_konvektor;48.35;0;0;0;nm;1 + 0;59055;1221.41
+Sopron;Lővérek;2018;uj;0;csaladihaz;tegla;0;5;2018;;;É;;0;1;gaz_cirko;100;25;0;600;nm;4 + 0;201575;2015.75
+Miskolc;Belváros;2018;hasznalt;0;tarsashazi;tegla;0;5;2008;3;földszint;K;utcai;1;0;gaz_cirko;105;15;0;;;3 + 1;180000;1714.29
+Szolnok;Tallinnvárosrész;2018;hasznalt;0;tarsashazi;tegla;0;3;1970;4;földszint;NY;udvari;0;0;gaz_konvektor;38;0;0;;;1 + 0;70000;1842.11
+Miskolc;Avas II.;2018;hasznalt;0;tarsashazi;panel;0;5;1980;4;4;NY;kertre_nezo;0;0;tav;55;0;3;;;2 + 0;70000;1272.73
+Nagykanizsa;Belváros;2018;hasznalt;0;tarsashazi;panel;0;4;1964;10;9;NY;utcai;1;0;hazkozponti_meresnelkul;51;0;0;;;2 + 1;55000;1078.43
+Veszprém;Újtelep;2018;hasznalt;0;csaladihaz;tegla;0;4;1999;;;DK;;0;0;gaz_cirko;130;0;0;1000;nm;4 + 0;200000;1538.46
+Tatabánya;Újváros;2018;hasznalt;0;tarsashazi;tegla;0;4;1976;5;3;DNY;udvari;0;1;tav;53;0;3.6;;;2 + 0;115000;2169.81
+Békéscsaba;Kastély-szőlők;2019;hasznalt;0;csaladihaz;tegla;0;4;1986;;;DK;;0;1;gaz_cirko;90;;0;1500;nm;4 + 0;100000;1111.11
+Debrecen;Belváros;2019;hasznalt;0;tarsashazi;tegla;0;4;1965;3;2;K;udvari;0;0;gaz_konvektor;38;0;2;;;1 + 0;90000;2368.42
+Szolnok;Belváros;2019;hasznalt;0;tarsashazi;tegla;0;4;1975;4;4;DNY;utcai;0;1;gaz_konvektor;50;0;0;;;2 + 0;80000;1600.00
+Pécs;Belváros;2019;hasznalt;0;tarsashazi;tegla;0;5;1940;2;1;D;utcai;0;0;gaz_cirko;66;0;0;;;2 + 0;90000;1363.64
+Miskolc;Belváros;2019;hasznalt;0;tarsashazi;tegla;0;5;1940;4;4;D;utcai;1;0;tavegyedi;40;0;0;;;1 + 1;75000;1875.00
+Székesfehérvár;Belváros;2019;hasznalt;0;tarsashazi;tegla;0;5;2004;3;1;ÉNY;udvari;1;1;tavegyedi;50;0;0;;;2 + 0;130000;2600.00
+Szeged;Újszeged;2019;hasznalt;0;tarsashazi;tegla;0;4;2004;3;1;DK;utcai;0;0;gaz_cirko;41;0;6;;;1 + 0;70000;1707.32
+Székesfehérvár;Ybl M. Lakótelep;2019;hasznalt;0;tarsashazi;csusztatott_zsalus;0;4;1965;4;2;DK;utcai;0;1;tav;37;0;0;;;1 + 1;80000;2162.16
+Debrecen;Nagyerdő;2019;hasznalt;0;tarsashazi;tegla;0;5;1980;1;földszint;D;udvari;0;1;gaz_cirko;80;20;0;;;2 + 1;160000;2000.00
+Debrecen;Úrrétje;2019;uj;0;tarsashazi;tegla;0;5;2018;2;2;NY;kertre_nezo;0;0;hazkozponti;63.97;40.56;0;;;1 + 2;190000;2970.14
+Győr;Győr-Belváros;2019;hasznalt;0;tarsashazi;tegla;0;4;2007;6;2;K;udvari;1;0;gaz_cirko;46;0;4;;;2 + 0;110000;2391.30
+Pécs;Belváros;2019;hasznalt;0;tarsashazi;tegla;0;4;1967;8;8;K;utcai;1;0;tav;57;0;2;0;nm;2 + 1;80000;1403.51
+Kecskemét;Belváros;2019;hasznalt;0;csaladihaz;tegla;0;4;2002;;;K;;0;1;gaz_cirko;180;0;0;350;nm;4 + 1;150000;833.33
+Kecskemét;Belváros;2019;hasznalt;0;tarsashazi;csusztatott_zsalus;0;3;1975;8;5;DK;utcai;1;1;tav;49;0;0;0;nm;2 + 0;95000;1938.78
+Tatabánya;Újváros;2019;hasznalt;0;tarsashazi;tegla;0;4;1960;4;3;DNY;utcai;0;1;tavegyedi;53;0;0;;;2 + 0;100000;1886.79
+Győr;Győr-Belváros;2019;hasznalt;0;tarsashazi;tegla;0;5;2002;4;4;DK;utcai;1;0;gaz_cirko;70;0;0;;;3 + 0;140000;2000.00
+Kecskemét;Belváros;2019;hasznalt;0;tarsashazi;tegla;0;3;1990;3;1;DK;utcai;0;0;tavegyedi;50;0;0;;;2 + 0;80000;1600.00
+Debrecen;Nyulas;2019;hasznalt;0;tarsashazi;tegla;0;5;2011;2;2;D;utcai;0;1;gaz_cirko;50;0;4;;;2 + 0;120000;2400.00
+Tatabánya;Cseri lakótelep;2019;hasznalt;0;tarsashazi;csusztatott_zsalus;0;5;1970;4;3;D;utcai;0;0;tav;56;0;4;;;2 + 0;80000;1428.57
+Miskolc;Avas II.;2019;hasznalt;0;tarsashazi;panel;1;4;1980;10;földszint;ÉNY;utcai;1;0;tavegyedi;55;0;0;;;1 + 2;70000;1272.73
+Sopron;Belváros;2019;hasznalt;0;tarsashazi;tegla;0;5;1960;3;2;D;udvari;0;1;gaz_cirko;87;0;6;;;3 + 0;140000;1609.20
+Nyíregyháza;Örökösföld;2019;hasznalt;0;tarsashazi;panel;0;5;1988;10;2;NY;utcai;1;0;tavegyedi;55;0;3;;;2 + 0;80000;1454.55
+Debrecen;Nagyerdő alja;2019;hasznalt;0;tarsashazi;tegla;0;5;1990;3;3;D;udvari;0;1;gaz_cirko;77;0;3;;;2 + 1;160000;2077.92
+Kecskemét;Belváros;2019;hasznalt;0;tarsashazi;tegla;0;5;1975;Földszintes;földszint;DNY;utcai;0;0;gaz_konvektor;24;0;0;;;1 + 0;80000;3333.33
+Kecskemét;Belváros;2019;hasznalt;0;tarsashazi;tegla;0;5;1975;Földszintes;földszint;DNY;utcai;0;0;gaz_konvektor;32;0;0;;;1 + 1;90000;2812.50
+Kecskemét;Belváros;2019;hasznalt;0;tarsashazi;tegla;0;5;1975;Földszintes;földszint;DNY;udvari;0;0;gaz_konvektor;15;0;0;;;1 + 0;70000;4666.67
+Debrecen;Nagyerdő;2019;hasznalt;0;tarsashazi;tegla;0;5;2006;3;1;D;utcai;1;1;gaz_cirko;49;0;0;;;2 + 0;100000;2040.82
+Kecskemét;Belváros;2019;hasznalt;0;tarsashazi;tegla;0;4;1970;4;4;D;kertre_nezo;0;0;tavegyedi;28;0;0;;;1 + 0;75000;2678.57
+Miskolc;Népkert;2019;hasznalt;0;tarsashazi;tegla;0;5;1964;1;földszint;D;utcai;0;0;gaz_cirko;85;0;4;;;2 + 2;135000;1588.24
+Szolnok;Szolnok;2019;hasznalt;0;tarsashazi;tegla;0;4;1960;4;2;K;utcai;0;0;gaz_konvektor;52;0;0;;;2 + 0;75000;1442.31
+Szekszárd;Szekszárd;2019;hasznalt;0;tarsashazi;panel;1;5;1984;4;1;K;utcai;0;1;tavegyedi;59;0;3.18;;;2 + 1;80000;1355.93
+Kecskemét;Széchenyiváros;2019;hasznalt;0;tarsashazi;panel;0;4;1980;10;10;DK;utcai;1;1;tavegyedi;34;0;4;;;1 + 0;85000;2500.00
+Miskolc;Avas I.;2019;hasznalt;0;tarsashazi;panel;0;5;1972;10;9;NY;utcai;1;0;tav;35;0;0;;;1 + 1;80000;2285.71
+Érd;Parkváros;2019;hasznalt;0;tarsashazi;tegla;0;5;2017;3;1;DNY;udvari;0;0;elektromos_fancoil;46;0;12;;;1 + 1;150000;3260.87
+Kecskemét;Kósafalu;2019;hasznalt;0;csaladihaz;tegla;0;4;1990;;;DNY;;0;0;faszen_cserepkalyha;88;0;0;400;nm;3 + 0;120000;1363.64
+Kecskemét;Belváros;2019;hasznalt;0;tarsashazi;tegla;0;4;1986;9;7;NY;utcai;1;1;tavegyedi;72;0;5;;;3 + 0;120000;1666.67
+Debrecen;Sestakert;2019;hasznalt;0;tarsashazi;tegla;0;5;1978;4;1;K;utcai;0;0;gaz_konvektor;43;0;0;;;2 + 0;115000;2674.42
+Pécs;Belváros;2019;hasznalt;0;tarsashazi;tegla;0;5;1985;2;1;K;utcai;0;1;gaz_konvektor;35;0;0;;;1 + 0;75000;2142.86
+Székesfehérvár;Palotaváros;2019;hasznalt;0;tarsashazi;panel;1;5;1985;10;magasföldszint;D;kertre_nezo;1;1;tav;53;0;4;;;2 + 0;120000;2264.15
+Győr;Pinnyéd;2019;hasznalt;0;csaladihaz;tegla;0;4;1974;;;DNY;;0;1;gaz_cirko;180;20;0;900;nm;6 + 0;150000;833.33
+Szombathely;Belváros;2019;hasznalt;0;csaladihaz;tegla;0;4;1950;;;DNY;;0;0;elektromos_cirko;142;8;0;1;nm;3 + 0;190000;1338.03
+Kecskemét;Belváros;2019;hasznalt;0;tarsashazi;tegla;0;5;1998;2;2;DK;utcai;0;0;gaz_cirko;80;0;4;;;2 + 0;120000;1500.00
+Debrecen;Tócó-völgyi lakótelep;2019;hasznalt;0;tarsashazi;tegla;0;4;1980;4;4;NY;udvari;0;1;tav;56;0;0;;;2 + 0;90000;1607.14
+Debrecen;Úrrétje;2019;hasznalt;0;csaladihaz;tegla;0;4;1968;;;K;;0;0;gaz_konvektor;74;0;0;1080;nm;2 + 0;120000;1621.62
+Szeged;Tarján;2019;hasznalt;0;tarsashazi;panel;0;5;1972;5;5;DNY;kertre_nezo;0;1;tav;47;0;3;;;1 + 1;85000;1808.51
+Győr;Győr-Belváros;2019;hasznalt;0;tarsashazi;tegla;0;5;1970;3;3;DK;utcai;0;0;gaz_cirko;53;0;2;;;2 + 0;125000;2358.49
+Zalaegerszeg;Páterdomb;2019;hasznalt;0;tarsashazi;tegla;0;4;1979;4;3;D;utcai;0;0;gaz_cirko;56;0;3;;;2 + 0;80000;1428.57
+Kecskemét;Rendőrfalu;2019;hasznalt;0;hazresz;tegla;0;4;1970;;;É;;0;1;elektromos_infra;30;0;0;100;nm;1 + 0;60000;2000.00
+Pécs;Egyetemváros;2019;hasznalt;0;tarsashazi;panel;0;5;1980;4;4;D;utcai;0;0;tavegyedi;36;0;0;;;2 + 0;70866;1968.50
+Debrecen;Belváros;2019;hasznalt;0;tarsashazi;tegla;0;4;1965;3;2;K;udvari;0;0;gaz_konvektor;38;0;0;;;1 + 0;85000;2236.84
+Győr;Győr-Belváros;2019;hasznalt;0;tarsashazi;tegla;0;5;2019;5;1;D;utcai;1;1;gaz_cirko;58.5;0;0;;;2 + 0;150000;2564.10
+Dunaújváros;Béke városrész;2019;hasznalt;0;tarsashazi;panel;1;4;1980;4;4;D;utcai;0;0;tavegyedi;47;0;0;;;2 + 0;69000;1468.09
+Győr;Győr-Belváros;2019;hasznalt;0;tarsashazi;tegla;0;5;1960;4;3;ÉNY;utcai;0;0;tav;51;0;0;;;2 + 0;100000;1960.78
+Kecskemét;Széchenyiváros;2019;hasznalt;0;tarsashazi;panel;1;4;1970;10;10;D;utcai;1;1;tavegyedi;55;0;0;;;2 + 1;75000;1363.64
+Pécs;Egyetemváros;2019;hasznalt;0;tarsashazi;panel;0;3;1980;4;1;D;utcai;0;1;tavegyedi;35;0;0;;;1 + 1;65000;1857.14
+Debrecen;Belváros;2019;hasznalt;0;tarsashazi;tegla;0;4;1952;3;2;K;udvari;0;1;gaz_konvektor;55;0;0;;;2 + 0;97000;1763.64
+Szeged;Belváros;2019;hasznalt;0;tarsashazi;tegla;0;5;1975;4;1;K;kertre_nezo;0;0;gaz_cirko;55;0;3;;;2 + 0;130000;2363.64
+Szeged;Belváros;2019;hasznalt;0;tarsashazi;tegla;0;3;1968;5;3;DNY;udvari;0;1;gaz_cirko;77;0;6;;;3 + 0;100000;1298.70
+Székesfehérvár;Belváros;2019;hasznalt;0;tarsashazi;csusztatott_zsalus;0;5;1970;9;2;D;utcai;1;1;tav;55;0;0;;;2 + 0;130000;2363.64
+Debrecen;Belváros;2019;hasznalt;0;tarsashazi;tegla;0;4;2000;3;2;ÉNY;kertre_nezo;0;0;gaz_cirko;70;0;0;;;1 + 2;105000;1500.00
+Zalaegerszeg;Belváros;2019;hasznalt;0;tarsashazi;tegla;0;4;1970;9;6;NY;utcai;1;1;gaz_konvektor;62;0;4;;;2 + 0;80000;1290.32
+Miskolc;Belváros;2019;uj;0;tarsashazi;tegla;0;5;2018;2;1;K;utcai;1;0;hazkozponti;66.16;0;5.7;0;nm;1 + 2;132310;1999.85
+Debrecen;Libakert;2019;hasznalt;0;tarsashazi;tegla;0;4;1111;4;1;DNY;udvari;0;0;tavegyedi;55;0;4;;;1 + 1;77000;1400.00
+Pécs;Rózsadomb;2019;hasznalt;0;tarsashazi;panel;1;5;1980;4;4;DNY;utcai;0;1;tavegyedi;58;0;0;;;2 + 1;90000;1551.72
+Kecskemét;Belváros;2019;hasznalt;0;tarsashazi;tegla;0;5;2006;4;3;DNY;udvari;1;0;gaz_cirko;75;0;8;;;3 + 0;170000;2266.67
+Miskolc;Berekalja;2019;hasznalt;0;csaladihaz;tegla;0;5;2012;;;ÉK;;0;1;gaz_cirko;150;0;0;1140;nm;2 + 3;250000;20000.00
+Tatabánya;Dózsakert;2019;hasznalt;0;tarsashazi;panel;0;4;1970;4;3;K;kertre_nezo;0;0;tavegyedi;54;0;0;;;2 + 0;100000;1851.85
+Debrecen;Gerébytelep;2019;hasznalt;0;ikerhaz;tegla;0;3;1980;;;K;;0;0;gaz_cirko;90;0;0;400;nm;2 + 1;120000;1333.33
+Debrecen;Belváros;2019;hasznalt;0;hazresz;tegla;0;3;1960;;;NY;;0;0;gaz_konvektor;22;0;0;503;nm;1 + 0;60000;2727.27
+Kecskemét;Petőfiváros;2019;hasznalt;0;tarsashazi;tegla;0;4;2000;5;4;DNY;utcai;1;1;gaz_cirko;42.18;0;0;;;1 + 0;90000;2133.71
+Dunaújváros;Római városrész;2019;hasznalt;0;tarsashazi;panel;1;4;1970;10;3;K;utcai;1;0;tav;35;0;0;;;1 + 1;60000;1714.29
+Debrecen;Újkert;2019;hasznalt;0;tarsashazi;panel;0;4;1980;10;7;K;utcai;1;0;tavegyedi;44;0;4;;;1 + 1;100000;2272.73
+Nagykanizsa;Belváros;2019;hasznalt;0;tarsashazi;panel;0;4;1980;10;9;ÉNY;utcai;1;0;hazkozponti_meresnelkul;51;0;0;;;2 + 0;60000;1176.47
+Szeged;Móraváros;2019;hasznalt;0;tarsashazi;tegla;0;5;2000;2;1;DNY;utcai;0;0;gaz_cirko;56;0;0;;;2 + 0;100000;1785.71
+Győr;Győr-Belváros;2019;hasznalt;0;tarsashazi;tegla;0;5;2014;4;3;NY;utcai;1;1;gaz_cirko;100;48;0;0;nm;4 + 0;385000;3850.00
+Miskolc;Belváros;2019;uj;0;tarsashazi;tegla;0;5;2018;2;1;NY;utcai;1;0;hazkozponti;43.04;0;0;;;1 + 0;94688;2200.00
+Székesfehérvár;Belváros;2019;hasznalt;0;tarsashazi;panel;1;3;1970;10;2;K;utcai;1;1;tavegyedi;62;0;0;;;3 + 0;130000;2096.77
+Miskolc;Belváros;2019;hasznalt;0;tarsashazi;tegla;0;4;1975;4;1;ÉK;utcai;0;1;gaz_konvektor;53;0;3.5;;;2 + 0;75000;1415.09
+Zalaegerszeg;Belváros II.;2019;hasznalt;0;tarsashazi;tegla;0;4;1975;4;földszint;ÉNY;utcai;0;1;gaz_konvektor;53;0;4;;;2 + 0;90000;1698.11
+Miskolc;Népkert;2019;hasznalt;0;tarsashazi;tegla;0;4;2012;3;2;DK;utcai;1;0;tavegyedi;54;22;0;;;2 + 0;120000;2222.22
+Győr;Győrszabadhegy;2019;hasznalt;0;tarsashazi;panel;1;5;1980;10;6;NY;utcai;0;1;tavegyedi;53;0;0;;;2 + 0;100000;1886.79
+Miskolc;Győri kapu;2019;hasznalt;0;tarsashazi;egyeb;0;3;1970;4;1;D;udvari;0;0;gaz_konvektor;54;0;3;;;2 + 0;60000;1111.11
+Dunaújváros;Béke városrész;2019;hasznalt;0;tarsashazi;panel;1;3;1980;10;9;NY;utcai;1;0;tav;59;0;0;;;2 + 0;75000;1271.19
+Kecskemét;Belváros;2019;hasznalt;0;tarsashazi;tegla;0;5;2005;5;4;NY;utcai;1;1;hazkozponti;46;0;0;;;2 + 0;100000;2173.91
+Kecskemét;Széchenyiváros;2019;hasznalt;0;tarsashazi;tegla;0;5;1973;4;2;D;utcai;0;1;gaz_konvektor;54;0;3.5;;;2 + 0;100000;1851.85
+Kecskemét;Homokbánya;2019;hasznalt;0;tarsashazi;tegla;0;5;2018;4;1;NY;udvari;1;1;gaz_cirko;54;0;8;;;2 + 0;110000;2037.04
+Kecskemét;Belváros;2019;hasznalt;0;tarsashazi;tegla;0;4;1970;3;3;K;utcai;0;0;gaz_konvektor;48;4;4;;;2 + 0;100000;2083.33
+Sopron;Belváros-külső;2019;hasznalt;0;tarsashazi;tegla;0;5;1995;2;2;DNY;kertre_nezo;1;1;gaz_cirko;75;12;16;;;3 + 0;170000;2266.67
+Győr;Adyváros;2019;hasznalt;0;tarsashazi;panel;0;5;1975;10;10;K;utcai;1;1;hazkozponti;55;0;0;;;2 + 0;90000;1636.36
+Pécs;Belváros;2019;hasznalt;0;tarsashazi;tegla;0;4;2000;2;földszint;K;udvari;0;1;elektromos_cirko;48;0;0;;;2 + 0;90000;1875.00
+Debrecen;Belváros;2019;hasznalt;0;tarsashazi;tegla;0;4;1952;3;2;K;udvari;0;1;gaz_konvektor;55;0;0;;;2 + 0;75000;1363.64
+Kecskemét;Széchenyiváros;2019;hasznalt;0;tarsashazi;panel;0;4;1970;5;5;DK;udvari;0;0;tavegyedi;54;0;4;;;2 + 0;90000;1666.67
+Kecskemét;Széchenyiváros;2019;hasznalt;0;tarsashazi;panel;0;4;1982;5;magasföldszint;DK;utcai;0;1;tav;33;0;0;;;1 + 0;70000;2121.21
+Kecskemét;Széchenyiváros;2020;hasznalt;0;tarsashazi;panel;0;3;1983;10;7;D;utcai;1;1;tav;55;0;0;;;2 + 0;80000;1455.00
+Debrecen;Belváros;2020;hasznalt;0;tarsashazi;tegla;0;4;1965;3;2;K;udvari;0;0;gaz_konvektor;38;0;2;;;1 + 0;90000;2368.00
+Szombathely;Belváros;2020;hasznalt;0;tarsashazi;tegla;0;5;2000;3;3;NY;udvari;0;0;gaz_cirko;82;0;0;;;3 + 0;140000;1707.00
+Kecskemét;Alsószéktó;2020;hasznalt;0;csaladihaz;tegla;0;3;1990;;;DNY;;0;0;vegyes_cserepkalyha;40;0;0;1600;nm;1 + 0;40000;1000.00
+Debrecen;Belváros;2020;hasznalt;0;tarsashazi;tegla;0;4;1968;4;magasföldszint;D;udvari;0;0;gaz_cirko;54;0;0;;;2 + 0;100000;1852.00
+Debrecen;Homokkert;2020;hasznalt;0;csaladihaz;tegla;0;3;1950;;;NY;;0;0;faszen_cserepkalyha;40;0;0;50;nm;2 + 0;60000;1500.00
+Szeged;Belváros;2020;hasznalt;0;tarsashazi;tegla;0;4;1990;4;3;K;utcai;0;1;gaz_cirko;68;0;3;;;3 + 0;80000;1176.00
+Győr;Győr;2020;hasznalt;0;csaladihaz;tegla;0;4;1990;;;K;;0;1;gaz_cirko;300;30;0;2100;nm;10 + 0;800000;2667.00
+Zalaegerszeg;Páterdomb;2020;hasznalt;0;csaladihaz;tegla;0;3;1964;;;K;;0;0;gaz_konvektor;80;0;0;620;nm;2 + 0;95000;1188.00
+Szolnok;Szolnok;2020;uj;0;tarsashazi;tegla;0;5;2019;3;1;D;utcai;0;1;gaz_cirko;95.14;15;4.88;;;5 + 0;150000;1577.00
+Kecskemét;Belváros;2020;hasznalt;0;tarsashazi;tegla;0;2;1976;4;1;D;utcai;0;1;gaz_cirko;63;0;3;;;3 + 0;80000;1270.00
+Tatabánya;Dózsakert;2020;hasznalt;0;tarsashazi;panel;0;5;1980;4;földszint;NY;utcai;0;0;tavegyedi;49;0;0;;;2 + 0;120000;2449.00
+Győr;Győrszabadhegy;2020;hasznalt;0;tarsashazi;panel;0;5;1985;10;6;NY;utcai;1;1;tavegyedi;53;0;0;;;2 + 0;100000;1887.00
+Sopron;Jereván lakótelep;2020;hasznalt;0;tarsashazi;csusztatott_zsalus;0;5;1980;3;2;ÉK;utcai;0;0;tavegyedi;72;0;4.5;;;3 + 0;135000;1875.00
+Miskolc;Népkert;2020;hasznalt;0;tarsashazi;tegla;0;4;2012;5;3;K;utcai;1;0;gaz_cirko;59;0;6;;;3 + 0;120000;2033.90
+Székesfehérvár;Belváros;2020;hasznalt;0;tarsashazi;tegla;0;5;1976;4;4;DK;utcai;0;1;tav;49;0;0;;;2 + 0;130000;2653.06
+Debrecen;Nagyerdő;2020;hasznalt;0;tarsashazi;tegla;0;3;1975;3;3;DNY;udvari;0;1;gaz_cirko;71;0;3.3;;;3 + 0;80000;1126.76
+Győr;Nádorváros;2020;hasznalt;0;csaladihaz;tegla;0;3;1970;;;K;;0;1;gaz_cirko;80;0;0;400;nm;3 + 0;100000;1250.00
+Szeged;Felsőváros;2020;hasznalt;0;tarsashazi;tegla;0;4;2000;4;4;DK;udvari;0;0;gaz_cirko;61;0;0;;;2 + 0;85000;1393.44
+Nyíregyháza;Belváros;2020;hasznalt;0;tarsashazi;tegla;0;4;1980;4;2;D;utcai;1;0;gaz_cirko;42;0;4;;;2 + 0;80000;1904.76
+Kecskemét;Széchenyiváros;2020;hasznalt;0;tarsashazi;tegla;0;4;1970;4;földszint;K;utcai;0;0;gaz_konvektor;55;0;0;;;2 + 0;75000;1363.64
+Székesfehérvár;Palotaváros;2020;hasznalt;0;tarsashazi;panel;1;4;1975;4;3;DNY;utcai;0;1;tav;51;0;2;;;2 + 0;90000;1764.71
+Debrecen;Sestakert;2020;hasznalt;0;tarsashazi;panel;1;4;1988;10;7;K;utcai;1;0;tavegyedi;30;0;3;;;1 + 0;70000;2333.33
+Nyíregyháza;Jósaváros;2020;hasznalt;0;tarsashazi;panel;0;2;1980;4;földszint;K;utcai;0;0;tavegyedi;35;0;0;;;2 + 0;50000;1428.57
+Debrecen;Belváros;2020;hasznalt;0;tarsashazi;tegla;0;5;1965;2;2;D;utcai;0;0;gaz_cirko;60;0;0;;;3 + 0;120000;2000.00
+Miskolc;Belváros;2020;uj;0;tarsashazi;tegla;0;5;2018;2;2;D;utcai;1;0;hazkozponti;73.14;0;0;;;3 + 0;145000;1982.50
+Debrecen;Vargakert;2020;hasznalt;0;tarsashazi;tegla;0;5;1978;4;1;É;udvari;0;0;hazkozponti;62;0;0;;;2 + 0;132000;2129.03
+Debrecen;Nagyerdő alja;2020;hasznalt;0;tarsashazi;tegla;0;5;1980;4;2;NY;kertre_nezo;0;0;gaz_cirko;52;0;5;;;2 + 0;95000;1826.92
+Kecskemét;Máriaváros;2020;hasznalt;0;tarsashazi;tegla;0;5;2018;3;2;K;udvari;1;1;elektromos_infra;36;;0;;;2 + 0;110000;3055.56
+Szeged;Belváros;2020;hasznalt;0;tarsashazi;tegla;0;3;1986;4;3;DNY;udvari;0;1;gaz_konvektor;50;0;6;;;2 + 0;80000;1600.00
+Kecskemét;Belváros;2020;hasznalt;0;tarsashazi;tegla;0;4;1998;4;2;DNY;udvari;0;0;gaz_cirko;72.5;0;0;;;3 + 0;130000;1793.10
+Székesfehérvár;Ráchegy;2020;hasznalt;0;csaladihaz;tegla;0;4;1985;;;DNY;;0;0;gaz_cirko;128;17;5.85;1732;nm;4 + 0;756000;5906.25
+Miskolc;Bulgárföld ;2020;hasznalt;0;tarsashazi;tegla;0;5;1970;4;2;D;utcai;0;0;gaz_konvektor;27;0;0;;;1 + 0;60000;2222.22
+Pécs;Belváros;2020;hasznalt;0;tarsashazi;tegla;0;4;1935;3;földszint;NY;udvari;0;0;gaz_cirko;42;5;0;;;1 + 0;85000;2023.81
+Debrecen;Belváros;2020;hasznalt;0;tarsashazi;panel;0;4;1975;10;5;D;utcai;1;0;tavegyedi;50;0;0;;;2 + 0;75000;1500.00
+Szolnok;Belváros;2020;hasznalt;0;tarsashazi;csusztatott_zsalus;0;4;1990;4;4;NY;utcai;0;0;gaz_cirko;78;0;0;;;3 + 0;100000;1282.05
+Győr;Győr-Belváros;2020;uj;0;tarsashazi;tegla;0;5;2020;5;4;DNY;kertre_nezo;0;0;gaz_cirko;65;0;0;;;3 + 0;185000;2846.15
+Nyíregyháza;Érkert;2020;hasznalt;0;tarsashazi;panel;0;4;1980;4;4;NY;kertre_nezo;0;0;tavegyedi;39;0;2.5;;;2 + 0;70000;1794.87
+Veszprém;Jutasi úti lakótelep;2020;hasznalt;0;tarsashazi;panel;1;5;1975;7;6;DNY;utcai;1;0;tav;62;0;;;;3 + 0;130000;2096.77
+Sopron;Belváros;2020;hasznalt;0;tarsashazi;tegla;0;4;1900;2;1;DK;utcai;0;1;gaz_cirko;110;0;0;;;4 + 0;118110;1073.73
+Szeged;Újszeged;2020;hasznalt;0;tarsashazi;tegla;0;4;1965;4;3;DNY;kertre_nezo;0;0;tav;43;0;0.5;;;2 + 0;60000;1395.35
+Szekszárd;Szekszárd;2020;hasznalt;0;tarsashazi;tegla;0;4;2004;2;földszint;K;utcai;0;0;gaz_cirko;55;18;0;;;2 + 0;110000;2000.00
+Kecskemét;Reptéri lakótelep;2020;hasznalt;0;tarsashazi;tegla;0;4;1970;3;földszint;K;kertre_nezo;0;1;gaz_konvektor;49;0;0;;;2 + 0;70000;1428.57
+Kecskemét;Belváros;2020;hasznalt;0;tarsashazi;tegla;0;3;1990;4;2;DNY;utcai;0;0;tavegyedi;50;0;0;;;2 + 0;60000;1200.00
+Debrecen;Belváros;2020;hasznalt;0;tarsashazi;tegla;0;5;2017;3;2;D;kertre_nezo;1;0;hazkozponti;52;0;0;;;2 + 0;140000;2692.31
+Szolnok;Belváros;2020;hasznalt;0;tarsashazi;tegla;0;4;1975;4;földszint;É;kertre_nezo;0;1;gaz_konvektor;34;0;0;;;1 + 0;65000;1911.76
+Debrecen;Tócóskert;2020;hasznalt;0;tarsashazi;panel;0;4;1985;4;3;K;utcai;0;1;tavegyedi;53;0;4;;;3 + 0;100000;1886.79
+Debrecen;Csapókert;2020;hasznalt;0;csaladihaz;tegla;0;4;1950;;;DNY;;0;0;gaz_cirko;60;0;0;100;nm;2 + 0;95000;1583.33
+Szolnok;Tallinnvárosrész;2020;hasznalt;0;tarsashazi;tegla;0;5;2010;3;földszint;DNY;kertre_nezo;1;0;hazkozponti;46.5;30;0;;;2 + 0;130000;2795.70
+Győr;Győr-Belváros;2020;hasznalt;0;tarsashazi;tegla;0;4;1970;2;1;DK;utcai;0;1;gaz_cirko;52;0;0;;;1 + 0;80000;1538.46
+Nyíregyháza;Belváros;2020;hasznalt;0;tarsashazi;tegla;0;5;1995;3;1;NY;utcai;0;0;tavegyedi;37;0;2;0;nm;1 + 0;80000;2162.16
+Kecskemét;Máriaváros;2020;hasznalt;0;tarsashazi;tegla;0;5;2006;3;3;D;utcai;1;1;hazkozponti;44;0;0;;;2 + 0;85000;1931.82
+Debrecen;Sestakert;2020;hasznalt;0;tarsashazi;panel;1;4;1985;10;7;K;utcai;1;0;tavegyedi;30;0;3;;;1 + 0;75000;2500.00
+Tatabánya;Cseri lakótelep;2020;hasznalt;0;tarsashazi;tegla;0;4;1960;4;3;D;utcai;0;0;tav;56;0;4;;;2 + 0;90000;1607.14
+Kecskemét;Széchenyiváros;2020;hasznalt;0;tarsashazi;tegla;0;4;1978;4;4;DNY;utcai;0;1;gaz_konvektor;27;0;0;;;1 + 0;55000;2037.04
+Szolnok;Szolnok;2020;hasznalt;0;tarsashazi;tegla;0;4;2004;Földszintes;földszint;NY;udvari;0;0;gaz_cirko;65;0;0;;;3 + 0;140000;2153.85
